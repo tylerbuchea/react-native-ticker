@@ -212,5 +212,5 @@ class Tick extends Component {
   }
 }
 
-export { Tick, numberRange };
-export default RotateText;
+export { Tick };
+export default Ticker;
